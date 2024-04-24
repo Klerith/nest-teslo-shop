@@ -61,6 +61,9 @@ export class ProductsService {
       skip: offset,
       relations: {
         images: true,
+      },
+      order: {
+        id: 'ASC'
       }
     })
 
