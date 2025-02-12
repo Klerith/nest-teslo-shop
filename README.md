@@ -18,8 +18,6 @@ docker compose up -d
 
 ```
 npm run start:dev
-yarn start:dev
-
 ```
 
 7. Ejecutar SEED
